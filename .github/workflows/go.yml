@@ -38,3 +38,5 @@ jobs:
         name: Download the App
         path: ./simple-cal
         
+        test
+        
